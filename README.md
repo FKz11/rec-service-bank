@@ -9,7 +9,7 @@
   * and png visualizations for EDA
 
 ## Service:
-Streamlit service is available at [rateyourflight.streamlit.app](https://rateyourflight.streamlit.app/) via Streamlit Cloud
+Streamlit service is available at [rec-service-bank.streamlit.app](https://rec-service-bank.streamlit.app/) via Streamlit Cloud
 
 To run locally, clone the repo and do the following:
 ```
